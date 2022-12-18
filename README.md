@@ -1,4 +1,5 @@
-# Criador-de-Formularios
-Projeto Javascript
+# 📋Criador de Formulários
+Projeto Javascript puro.
 
-Testando conhecimentos com este pequeno projeto sobre Orientação a Objeto no Javascript.
+## 🤺 Testando conhecimentos:
+Testando manipulação de elementos, o projeto implementa tags html de formulários chamando as funções javascript.
